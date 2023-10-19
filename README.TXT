@@ -1,6 +1,6 @@
 Passos para funcionamento do programa:
 
-- Anexos nas pastas (3 de cada)
+- Defina o caminho de seus anexos
 
 - Definir Manualmente o fechamento do Ibovespa no mês anterior;
 
@@ -8,4 +8,4 @@ Passos para funcionamento do programa:
 
 - Definir Manualmente a rentabilidade de cada carteira no código;
 
-- 
+- Executar arquivo envio_de_email.py
